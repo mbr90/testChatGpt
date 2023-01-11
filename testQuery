@@ -1,0 +1,11 @@
+I expect a table of this type:
+
+Utgiver: Name of publisher
+Forfatter: Name of author
+Redaktør: Name of editor
+ISBN: Number
+Utgivelsesdato: Date of publication
+
+
+
+Can you extract such a table from the following text:
