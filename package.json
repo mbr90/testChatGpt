@@ -1,0 +1,34 @@
+{
+  "name": "testchatgpt",
+  "version": "1.0.0",
+  "description": "Testing metadata extraction",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "openai": "^3.1.0",
+    "pdf-parse": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbr90/testChatGpt.git"
+  },
+  "keywords": [
+    "ChatGPt",
+    "PDF",
+    "parsing",
+    "Metadata",
+    "extraction"
+  ],
+  "author": "MBR90",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbr90/testChatGpt/issues"
+  },
+  "homepage": "https://github.com/mbr90/testChatGpt#readme"
+}
